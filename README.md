@@ -1,7 +1,7 @@
 <div align="center">
 	<p>
 		<a target="_blank" href="https://github.com/Fastxyz/CRRPC" title="CRRPC">
-			<img src="https://i.imgur.com/NAHF4xW.png" width="256" alt="CRRPC">
+			<img src="https://i.imgur.com/NAHF4xW.png" width="256" alt="CRRPC" draggable="false">
 		</a>
 	</p>
 </div>
@@ -16,7 +16,7 @@
 
 ## **🖼️ Preview:**
 
-<img alt="Discord RPC" src="https://i.imgur.com/AJKxgoD.png">
+<img src="https://i.imgur.com/AJKxgoD.png" alt="Discord RPC" draggable="false">
 
 <hr>
 
@@ -31,7 +31,7 @@
 
 1. Open **Clash Royale** and follow the steps to get your Tag:
 
-  <img alt="Clash Royale Player Tag" src="https://i.imgur.com/cNAM0nV.gif">
+  <img src="https://i.imgur.com/cNAM0nV.gif" alt="Clash Royale Player Tag" draggable="false">
 
 2. Go to the `config.js` file and replace **YOUR PLAYER TAG** with your Clash Royale player tag.
 3. Go to the [Clash Royale API Dashboard](https://developer.clashroyale.com) and create an account or log in to your account.
