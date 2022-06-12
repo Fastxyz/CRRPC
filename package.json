@@ -1,0 +1,35 @@
+{
+	"name": "crrpc",
+	"version": "1.0.0",
+	"description": "Discord Rich Presence that shows on your profile your Clash Royale statistics.",
+	"main": "index.js",
+	"scripts": {
+		"start": "node ."
+	},
+	"keywords": [
+		"discord",
+		"rpc",
+		"javascript",
+		"js",
+		"discord.js",
+		"djs",
+		"clashroyale"
+	],
+	"author": "Fastxyz",
+	"license": "GPL-3.0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Fastxyz/CRRPC.git"
+	},
+	"bugs": {
+		"url": "https://github.com/Fastxyz/CRRPC/issues"
+	},
+	"homepage": "https://github.com/Fastxyz/CRRPC/#readme",
+	"dependencies": {
+		"discord-rpc": "^4.0.1",
+		"node-fetch-commonjs": "^3.1.1"
+	},
+	"devDependencies": {
+		"eslint": "^8.17.0"
+	}
+}
